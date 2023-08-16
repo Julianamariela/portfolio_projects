@@ -1,9 +1,9 @@
-# Superstores Sales Data Analysis using Python
+# TimeTrend Insights - Annual sales
 
 ## Overview
 Superstores is an American-based retailer specializing in electronic appliances and accessories, including phones, laptops, and related items. The company operates in 10 cities and 8 regions.
 
-This project aims to provide insights into the optimal time for advertisements and analyze the sales performance and company trends over the course of the year.
+Delve into Superstores' dynamics with 'TimeTrend Insights.' This project uncovers prime advertisement windows, examines year-round sales trends, and unveils company performance. Merging data with Python and Pandas sets the stage, followed by in-depth analysis using Google Colab and strategic tools like Prophet, NumPy, and Matplotlib. Results shine in a detailed report, crafted in PowerPoint and shared as a PDF.
 
 ## Project Structure
 The project is split into three main parts:
