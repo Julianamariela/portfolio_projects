@@ -1,4 +1,4 @@
-# Time Trend Insights and Business Reporting Enhancement
+# Market Analysis and Reporting Enhancement
 
 ## Overview
 Superstores is an American-based retailer specializing in electronic appliances and accessories, including phones, laptops, and related items. The company operates in 10 cities and 8 regions.
